@@ -14,4 +14,4 @@ With the following external libraries:
 - numpy
 - pandas
 - re
-- tabula (especially important)
+- tabula (Version 1.2.1 or later)
