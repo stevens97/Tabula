@@ -1,4 +1,4 @@
-# Table_Cleaner
+# Table Finder + Cleaner
 
 What this program does:
 ========================================
