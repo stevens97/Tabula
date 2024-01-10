@@ -1,4 +1,4 @@
-# Table Finder + Cleaner
+# Tabula: Table Finder + Cleaner
 
 What this program does:
 ========================================
